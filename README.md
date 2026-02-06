@@ -1,5 +1,3 @@
-# Hoang Nguyen
-
 I care about clean architecture, testing, and thoughtful engineering tradeoffs.
 
 ## Now
