@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hoang Nguyen
 
-<!--
-**hoangaccounts/hoangaccounts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer (Android) • Kotlin • Jetpack Compose • Architecture • Testing • Shipping
 
-Here are some ideas to get you started:
+## Selected projects
+- [dt](https://github.com/hoangaccounts/dt) — portable, repeatable developer workflows.
+- [anchor](https://github.com/hoangaccounts/anchor) — lightweight contracts for disciplined AI chats.
+- [ai-smells](https://github.com/hoangaccounts/ai-smells) — prompt/session failure modes to inform tooling and counter-patterns.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Now
+Moving back into Android work — keeping projects small, clean, and production-shaped.
+
+## Contact
+- [LinkedIn](https://www.linkedin.com/in/hoang-nguyen-ⓥ/) — say hi 👋
