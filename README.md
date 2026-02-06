@@ -1,6 +1,6 @@
 # Hoang Nguyen
 
-I build well-crafted, production-shaped software — clean architecture, strong tests, and pragmatic engineering tradeoffs.
+I care about clean architecture, testing, and thoughtful engineering tradeoffs.
 
 ## Now
 Moving back into Android work — keeping projects small, clean, and production-shaped.
